@@ -22,5 +22,7 @@ Contributors
 
 Shane Celis added snippets: `beg`, `eqref`, `ref`, `figure`, `fref`,
 `label`, `ref`, and `table`.
+Björn Ramberg added snippets: `enum`, `eq`, `frac` (and alias `fr`),
+`it`, `item`, `lr`, `lra`, `lrb`, `lrc`, `tb`, `ti`.
 
 pluskid added the first and best snippet, `begin`.
