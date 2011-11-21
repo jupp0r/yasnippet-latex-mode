@@ -1,0 +1,6 @@
+#contributor : Jupp Mueller <jupp0r@gmail.com>
+#name : \subsection{name}
+# --
+\subsection{$1}
+$0
+% end subsection {$1}

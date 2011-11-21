@@ -1,0 +1,6 @@
+#contributor : Jupp Mueller <jupp0r@gmail.com>
+#name : \section{name}
+# --
+\section{$1}
+$0
+% end section {$1}
